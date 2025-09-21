@@ -8,7 +8,7 @@ Thanks for checking out this personal project, more screenshots available down b
 ## The Project
 
 E-commerce developped with Symfony 6, with a MVC architecture with keys functionalities for an online shop. 
-This repository is a showcase : it serves to present the objectives, the project's pictures.
+This repository is a showcase : it serves to present the functionalities and the project's pictures.
 Feel free to ask me if a direct access to the main repository which is currently private for security reasons. 
 
 **The functionalities are :**
